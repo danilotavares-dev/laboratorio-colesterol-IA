@@ -5,10 +5,10 @@ name = "pypi"
 
 [packages]
 pandas = "*"
-scipy = "*"
-scikit-learn = "*"
 matplotlib = "*"
 seaborn = "*"
+pingouin = "*"
+scikit-learn = "*"
 ipykernel = "*"
 gradio = "*"
 
